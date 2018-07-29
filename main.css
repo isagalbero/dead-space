@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: url('Image/deadspace3.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.icon {
+    display: flex;
+    width: 60px;
+    height: 60px;
+    transform: translate(-50%, -50%);
+    background: #000;
+    padding: 0;
+}
