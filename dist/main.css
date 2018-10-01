@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background: url('Image/deadspace3.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.video-button{
+    color: #007BFF;
+    background-color: transparent;
+    border: none;
+}
+
+.video-button:hover {
+    color: orange;
+}
+
+/* .kay:hover{
+    background-color: blueviolet;
+} */
+
+.the-footer {
+    background-color: #343a4085;
+    width: 100vw;
+}
+
+.git, .steam, .play, .you {
+    font-size: 35px;
+}
+
+.li-icons {
+    text-decoration: none;
+    padding: 10px;
+    list-style: none;
+}
+
+
+

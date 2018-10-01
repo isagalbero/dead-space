@@ -1,0 +1,29 @@
+{
+  "name": "dead-space",
+  "version": "1.0.0",
+  "description": "fan page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isagalbero/dead-space.git"
+  },
+  "keywords": [
+    "dead-space",
+    "after-math",
+    "issac-clarke"
+  ],
+  "author": "isagalbero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isagalbero/dead-space/issues"
+  },
+  "homepage": "https://github.com/isagalbero/dead-space#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "page": "^1.10.2",
+    "path": "^0.12.7"
+  }
+}
